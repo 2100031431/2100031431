@@ -3,19 +3,14 @@
 # About Me
 I am a B.Tech 4th year student, passionate about full stack development, Java, and learning new technologies. I have experience with ReactJS, Spring Boot, and Django(basics).
 
-- 🔭 I’m currently working on [Current Project].
-- 🌱 I’m currently learning [Fullstack].
-- 👯 I’m looking to collaborate on [Projects or Areas you want to collaborate on].
-- 🤔 I’m looking for help with [Project or Topic].
-- 💬 Ask me about [Topics you are comfortable discussing].
-- 📫 How to reach me: [bhagyasreeganisetti005@gmail.com].
-- ⚡ Fun fact: [Something interesting about you].
+
+- 🌱 I’m currently learning Full-Stack.
+- 📫 How to reach me: bhagyasreeganisetti005@gmail.com.
 
 ## Skills
-- **Languages**: c, Objevt-oriented Programming Java, Python(Basics)
+- **Languages**: C, Object-oriented Programming Java, Python(Basics)
 - **Frameworks/Libraries**: React.js, Springboot, Django
 - **Tools**: -
-
 
 
 ## Connect with Me
@@ -24,20 +19,19 @@ I am a B.Tech 4th year student, passionate about full stack development, Java, a
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://yourportfolio.com)
 
 ## Projects
-### [Project 1]
-Online Food Ordering System using SpringBoot
+### Online Food Ordering System using SpringBoot
 
-### [Project 2]
-Health Care and Wellbeing System webproject Using React.js
+### Health Care and Wellbeing System webproject Using React.js
+
 
 
 ## Achievements
-- [Participated in Code For Good 2024]
+- Participated in Code For Good 2024 Hackathon.
 
 ## Education
-- **[BTech]** in [Computer Science and Engineering] from [KL University] (4th)
+- **BTech** in Computer Science and Engineering from KL University
 
 ## Certifications
-- [Red Hat® Certified Enterprise Application Developer]
-- [AWS Certified: Cloud Practitioner]
+- Red Hat® Certified Enterprise Application Developer
+- AWS Certified: Cloud Practitioner
 
